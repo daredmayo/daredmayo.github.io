@@ -167,7 +167,7 @@ a:hover {
 }
 #headerTitle img {
   float: left;
-  margin-right: 20px;
+  margin: 20px;
 }
 #body {
   margin: -40px auto 0;
